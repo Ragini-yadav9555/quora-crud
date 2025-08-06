@@ -1,0 +1,1 @@
+A simple Quora-like web application that allows users to Create, Read, Update, and Delete (CRUD) posts using Node.js, Express.js, and MySQL. This project demonstrates RESTful API development with proper routing, database operations, and error handling.
